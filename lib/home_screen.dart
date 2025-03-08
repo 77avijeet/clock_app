@@ -38,7 +38,7 @@ class HomeScreen extends StatelessWidget {
                         height: 250,
                         width: 250,
                         margin: const EdgeInsets.only(top: 50.0),
-                        color: Colors.red,
+                        color: const Color.fromARGB(255, 19, 7, 249),
                       ),
                     ],
                   ),
