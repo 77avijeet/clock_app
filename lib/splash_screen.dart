@@ -38,7 +38,7 @@ class SplashScreen extends StatelessWidget {
             ),
             Spacer(),
             Text(
-              "created by BISWA",
+              "created by AVIJEET",
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 50),
